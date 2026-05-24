@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heaven-is-here/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Heaven Is Here](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heaven-is-here/) |
+| **Get License** | [Official Music Licensing for Heaven Is Here](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heaven-is-here/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b5b6e47ffbcba37dcbc8cd5cdc93542c556b99adba9351d777278d23928f23b7` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
