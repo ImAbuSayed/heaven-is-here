@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heaven-is-here/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Heaven Is Here](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heaven-is-here/) |
+| **Get License** | [Secure Licensing Rights for Heaven Is Here](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heaven-is-here/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the warmth radiating from your skin
+> A slow burning fire that I want to wander in
+> Every time you look my way, the busy world just fades
+> Got me falling deeply in the memory we made
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
